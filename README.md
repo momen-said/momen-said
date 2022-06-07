@@ -20,8 +20,9 @@ i'm an ITI - business intelligence track graduate who have experience in the ana
 - python
 - C#
 - XML
-- SQL Server & T-SQL
+- SQL Server, T-SQL and oracle PL\SQL
 - SQL BI tools (SSIS - SSAS - SSRS)
 - power BI & Tableau
 - EXCEL
 - Microsoft azure cloud service basics
+- SAS programming
