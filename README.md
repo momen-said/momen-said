@@ -27,3 +27,5 @@ i'm an ITI - business intelligence track graduate who have experience in the ana
 - EXCEL
 - Microsoft azure cloud service basics
 - SAS programming
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=momen-said&label=Profile%20views&color=0e75b6&style=flat" alt="momen-said" /> </p>
