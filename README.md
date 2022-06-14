@@ -28,4 +28,6 @@ i'm an ITI - business intelligence track graduate who have experience in the ana
 - Microsoft azure cloud service basics
 - SAS programming
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=momen-said&show_icons=true&locale=en&layout=compact" alt="momen-said" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momen-said&label=Profile%20views&color=0e75b6&style=flat" alt="momen-said" /> </p>
