@@ -12,6 +12,7 @@ i'm an ITI - business intelligence track graduate who have experience in the ana
 - linkedin : https://www.linkedin.com/in/mo-men-said/
 - tableau public : https://public.tableau.com/app/profile/mo.men.said
 - hackerrank : https://www.hackerrank.com/memoelnobi
+- Leet code: https://leetcode.com/momen-said/
 - datacamp : https://www.datacamp.com/profile/memoelnobi
 - novyPro (a website to share power BI dashboards): https://www.novypro.com/profile_projects/momensaid5373
 - email : momen.saido26@gmail.com 
