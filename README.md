@@ -20,14 +20,13 @@ i'm an ITI - business intelligence track graduate who have experience in the ana
 ### My skills:
 
 - python
-- C#
 - XML
 - SQL Server, T-SQL and oracle PL\SQL
 - SQL BI tools (SSIS - SSAS - SSRS)
 - power BI & Tableau
 - EXCEL
 - Microsoft azure cloud service basics
-- SAS programming
+- SAP BO
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=momen-said&show_icons=true&locale=en&layout=compact" alt="momen-said" /></p>
 
